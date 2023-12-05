@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T17:21:47.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="oPYRVXnBoOhweCLW3fqM" version="22.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-05T17:32:30.942Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="82kB8_R1P1yqBFRmHtzz" version="22.1.5" type="github" pages="2">
   <diagram name="BackEnd" id="O42QfGCBKt3wKBYl-j8I">
-    <mxGraphModel dx="1562" dy="915" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1838" dy="1076" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,7 +121,7 @@
         <mxCell id="AW1vwLAk8eoKNPpOY0Im-39" value="&lt;pre&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 18px;&quot; face=&quot;Tahoma&quot;&gt;BitBucket&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="821" y="95" width="93" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AW1vwLAk8eoKNPpOY0Im-40" value="&lt;font color=&quot;#003366&quot;&gt;&lt;b&gt;izipay-backend&lt;/b&gt;&lt;br&gt;benefit-service&lt;br&gt;benefits-mccenter-service&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/data/file_repository.svg;" parent="1" vertex="1">
+        <mxCell id="AW1vwLAk8eoKNPpOY0Im-40" value="&lt;font color=&quot;#003366&quot;&gt;&lt;b&gt;izipay-backend&lt;/b&gt;&lt;br&gt;benefit-report-service&lt;br&gt;&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/data/file_repository.svg;" parent="1" vertex="1">
           <mxGeometry x="854" y="310" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AW1vwLAk8eoKNPpOY0Im-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AW1vwLAk8eoKNPpOY0Im-17" target="AW1vwLAk8eoKNPpOY0Im-40" edge="1">
@@ -135,7 +135,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AW1vwLAk8eoKNPpOY0Im-43" value="&lt;h1&gt;GDTI-5151&lt;/h1&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Modificación en los servicios siguientes: Benefit-Service y Benefits-MCCenter-Service. Debido a que las urls para la obtención del token han sido modificadas del lado de BCP.&lt;/p&gt;" style="text;html=1;strokeColor=#808080;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="AW1vwLAk8eoKNPpOY0Im-43" value="&lt;h1&gt;GDTI-5317&lt;/h1&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Modificación de servicio: benefit-report-service para generar una copia con un nuevo nombre del archivo de consultas, canjes y anulaciones del programa cuenta sueldo BCP..&lt;/p&gt;" style="text;html=1;strokeColor=#808080;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1040" y="270" width="190" height="240" as="geometry" />
         </mxCell>
       </root>
